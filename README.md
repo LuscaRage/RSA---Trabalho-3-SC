@@ -25,10 +25,11 @@ Chave Privada:
 ```
 2. Para gerar uma mensagem cifrada escolha 2. Após isso insira a mensagem a ser criptografada e uma chave pública, assim você receberá uma cifração RSA usado OAEP (base 64).
    
-Exemplo de mensagem (Utilize a chave pública anterior):
+Exemplo de mensagem :
 ```
  O que eu bebi por você dá pra encher um navio 
 ```
+Utilize a chave pública anterior.
 3. Para decifrar uma mensagem cifrada digite 3:
    
 Mensagem criptografada em base 64 (por exemplo a anteriormente criptografada): 
