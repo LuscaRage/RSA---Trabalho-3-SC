@@ -8,11 +8,11 @@ Esse é o terceiro e último projeto de SC. O trabalho está dividido em 3 parte
 
 
 ## Como Rodar
-1. Execute esse comando no terminal. E depois escolha uma das opções
+1. Execute esse comando no terminal.
 ```
 python RSA.py
 ```
- 
+ ## Escolha uma opção
 1. Para gerar as chaves RSA (pública e privada de tamanho mínimo 1024) escolha 1. Exemplo de chaves:
    
 Chave Pública:
