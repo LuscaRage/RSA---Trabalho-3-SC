@@ -30,6 +30,7 @@ Exemplo de mensagem :
  O que eu bebi por você dá pra encher um navio 
 ```
 Utilize a chave pública anterior.
+
 3. Para decifrar uma mensagem cifrada digite 3:
    
 Mensagem criptografada em base 64 (por exemplo a anteriormente criptografada): 
